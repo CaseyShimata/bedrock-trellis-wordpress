@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/trellis/.trellis/virtualenv/lib/python3.9/site-packages/ansible_collections/netapp_eseries/santricity/vars" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/oscarotero/env" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/roots/wp-password-bcrypt" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/roots/bedrock-autoloader" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/roots/wp-config" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/roots/wordpress-core-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/site/vendor/symfony/polyfill-mbstring" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

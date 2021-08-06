@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thezip1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/trellis/.trellis/virtualenv/lib/python3.9/site-packages/ansible_collections/community/aws/tests/unit/modules/fixtures/thezip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

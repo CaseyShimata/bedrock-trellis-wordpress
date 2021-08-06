@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/trellis/.trellis/virtualenv/lib/python3.9/site-packages/ansible_collections/community/network/tests/unit/plugins/modules/network/radware/wt.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
