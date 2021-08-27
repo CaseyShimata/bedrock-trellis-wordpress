@@ -28,6 +28,10 @@
       "type": "composer",
       "url": "https://wpackagist.org",
       "only": ["wpackagist-plugin/*", "wpackagist-theme/*"]
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:CaseyShimata/myplugin.git"
     }
   ],
   "require": {
@@ -41,7 +45,9 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/wordpress-seo": "16.8",
-    "wpackagist-plugin/autoptimize": "2.9.0"
+    "wpackagist-plugin/autoptimize": "2.9.0",
+    "wpackagist-plugin/loco-translate": "2.5.3",
+    "caseyshimata/myplugin": "1.0.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.6.0",
